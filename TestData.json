@@ -1,0 +1,42 @@
+[
+    {
+        "SaleID": 1,
+        "Product": "Laptop",
+        "Category": "Electronics",
+        "Region": "North",
+        "SaleDate": "2024-10-01",
+        "Amount": 1200
+    },
+    {
+        "SaleID": 2,
+        "Product": "Smartphone",
+        "Category": "Electronics",
+        "Region": "South",
+        "SaleDate": "2024-10-02",
+        "Amount": 800
+    },
+    {
+        "SaleID": 3,
+        "Product": "Table",
+        "Category": "Furniture",
+        "Region": "East",
+        "SaleDate": "2024-10-03",
+        "Amount": 350
+    },
+    {
+        "SaleID": 4,
+        "Product": "Chair",
+        "Category": "Furniture",
+        "Region": "West",
+        "SaleDate": "2024-10-04",
+        "Amount": 150
+    },
+    {
+        "SaleID": 5,
+        "Product": "Headphones",
+        "Category": "Electronics",
+        "Region": "North",
+        "SaleDate": "2024-10-05",
+        "Amount": 150
+    }
+]
